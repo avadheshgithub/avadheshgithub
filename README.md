@@ -1,3 +1,4 @@
+![logo](https://github.com/avadheshgithub/avadheshgithub/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Avadhesh shah</h1>
 <h3 align="center">A passionate software developer, coder and problem solver from India</h3>
 
