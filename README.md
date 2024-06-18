@@ -1,6 +1,6 @@
 ![logo](https://github.com/avadheshgithub/avadheshgithub/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Avadhesh shah</h1>
-<h3 align="center">A passionate software developer, coder and problem solver from India</h3>
+<h1 align="center">Hi 👋, I'm Avadhesh Kumar Shah</h1>
+<h3 align="center">A passionate Software developer & Coder from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -9,17 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/avadhesh shah" target="blank"><img src="https://img.shields.io/twitter/follow/avadhesh shah?logo=twitter&style=for-the-badge" alt="avadhesh shah" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, React js**
+- 🌱 I’m currently learning **DSA, React.js**
 
-- 👨‍💻 All of my projects are available at [https://avadheshgithub.github.io/My_Portfolio/](https://avadheshgithub.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://avadheshgithub.github.io/My_Portfolio/)
 
-- 📝 I regularly write articles on [https://x.com/AshokKu54581141?t=4_oX4pqjdDcwhwpkGigO9A&s=08](https://x.com/AshokKu54581141?t=4_oX4pqjdDcwhwpkGigO9A&s=08)
+- 📝 I regularly write articles on [Twitter](https://x.com/AshokKu54581141?t=4_oX4pqjdDcwhwpkGigO9A&s=08)
 
-- 💬 Ask me about **Developer.**
+- 💬 Ask me about **Developer**
 
-- 📫 How to reach me **http://www.linkedin.com/in/avadhesh-kumar-shah-39b987245**
-
-- 📄 Know about my experiences ["F:\Technical Skills Notes\Resume Template\Avadhesh Prof_Resume.pdf"]("F:\Technical Skills Notes\Resume Template\Avadhesh Prof_Resume.pdf")
+- 📫 How to reach me [LinkedIn](http://www.linkedin.com/in/avadhesh-kumar-shah-39b987245)
 
 - ⚡ Fun fact **stay focused👨‍🎓**
 
@@ -39,8 +37,31 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avadheshgithub&show_icons=true&locale=en&layout=compact" alt="avadheshgithub" /></p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avadheshgithub&layout=compact&theme=transparent" alt=avadheshgithub />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avadheshgithub&show_icons=true&locale=en" alt="avadheshgithub" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=avadheshgithub&show_icons=true&locale=en&theme=transparent" alt="avadheshgithub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadheshgithub&" alt="avadheshgithub" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=avadheshgithub&theme=transparent" alt="avadheshgithub" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/avadheshgithub">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avadheshgithub&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avadheshgithub&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avadheshgithub&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avadheshgithub&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avadheshgithub&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=avadheshgithub&theme=synthwave-84"/>
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avadheshgithub&label=Profile%20views&color=eb345e&style=flat" alt="avadheshgithub" /> </p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+---
+
