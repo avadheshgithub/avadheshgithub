@@ -27,14 +27,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/avadhesh shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avadhesh shah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avadhesh kumar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avadhesh kumar shah" height="30" width="40" /></a>
+<a href="https://x.com/AshokKu54581141?t=YlVyL2TqYXZJzUwSLHOP8A&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avadhesh shah" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/avadhesh-kumar-shah-39b987245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avadhesh kumar shah" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/avadheshkumarshah" target="_blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="avadhesh kumar shah" height="30" width="40" />
 </a>
-<a href="https://fb.com/avadhesh shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avadhesh shah" height="30" width="40" /></a>
+<a href="https://www.facebook.com/avadheshkumar.shah.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avadhesh shah" height="30" width="40" /></a>
 <a href="https://instagram.com/imavadhesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imavadhesh_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/avadhehs kumar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avadhehs kumar shah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/avadhesh kumar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avadhesh kumar shah" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/avadhesh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avadhesh kumar shah" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/avadhehs kumar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="avadhehs kumar shah" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/avadhesh kumar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avadhesh kumar shah" height="30" width="40" /></a>
 </p>
