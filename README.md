@@ -1,6 +1,10 @@
 ![logo](https://github.com/avadheshgithub/avadheshgithub/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Avadhesh Kumar Shah</h1>
+
 <h3 align="center">A passionate Software developer & Coder from India</h3>
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avadheshgithub" alt="avadheshgithub" /></a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -60,8 +64,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadheshgithub&label=Profile%20views&color=eb345e&style=flat" alt="avadheshgithub" /> </p>
 
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ---
+
+
 
