@@ -1,7 +1,7 @@
 ![logo](https://github.com/avadheshgithub/avadheshgithub/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Avadhesh Kumar Shah</h1>
 
-<h3 align="center">A passionate Software developer & Coder from India</h3>
+<h3 align="center">A Passionate Software developer & Coder from India</h3>
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avadheshgithub" alt="avadheshgithub" /></a>
 </p>
