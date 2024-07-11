@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://avadheshgithub.github.io/My_Portfolio/)
 
-- 📝 I regularly write articles on [Twitter](https://x.com/AshokKu54581141?t=4_oX4pqjdDcwhwpkGigO9A&s=08)
+- 📝 I regularly write articles on [Twitter](https://x.com/Avadhesh_04/)
 
 - 💬 Ask me about **Developer**
 
