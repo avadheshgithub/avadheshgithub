@@ -47,7 +47,8 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=avadheshgithub&show_icons=true&locale=en&theme=transparent" alt="avadheshgithub" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=avadheshgithub&theme=transparent" alt="avadheshgithub" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avadheshgithub&theme=transparent)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
