@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [LinkedIn](http://www.linkedin.com/in/avadhesh-kumar-shah-39b987245)
 
-- ⚡ Fun fact **stay focused👨‍🎓**
+- ⚡ Fun fact **stay focused & learn👨‍🎓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
