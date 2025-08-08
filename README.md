@@ -1,4 +1,17 @@
-
+## Code Stack
+<div style="display: flex; gap: 10px;">
+  <a href="https://leetcode.com/u/avadhesh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a> LeetCode  
+  <a href="https://codeforces.com/profile/avadhesh_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a> Codeforces
+  <a href="https://auth.geeksforgeeks.org/user/avadhesh kumar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a> GeeksforGeeks
+  <a href="https://www.hackerearth.com/@avadhehs kumar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a> HackerEarth
+</div>
+<!--
+## Connect with me
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.kaggle.com/avadheshkumarshah" target="_blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" height="30" width="40" /></a> Kaggle
+  <a href="http://www.linkedin.com/in/avadhesh-kumar-shah-39b987245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> LinkedIn
+  <a href="https://avadheshgithub.github.io/My_Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" /></a> Portfolio
+</div>
 <!--
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
