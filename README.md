@@ -1,4 +1,4 @@
-## Code Stack
+## Coding Profile -
 <div style="display: flex; gap: 10px;">
   <a href="https://leetcode.com/u/avadhesh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a> LeetCode  
   <a href="https://codeforces.com/profile/Avadhesh_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a> Codeforces
