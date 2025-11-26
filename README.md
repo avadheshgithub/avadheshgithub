@@ -66,8 +66,6 @@
 
 
 
-
-
 <!-- [logo](https://github.com/avadheshgithub/avadheshgithub/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Avadhesh Kumar Shah</h1>
 
