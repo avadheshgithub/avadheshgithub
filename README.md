@@ -6,7 +6,6 @@
   <a href="https://codeforces.com/profile/Avadhesh_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a> Codeforces
   <a href="https://www.codechef.com/users/avadhesh_04" target="blank"><img align="center" src="https://cdn.simpleicons.org/codechef" alt="CodeChef" height="30" width="40" /></a> CodeChef
   <a href="https://www.hackerearth.com/@avadhesh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a> HackerEarth
-  <a href="https://www.hackerrank.com/avadheshkumarsh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a> HackerRank
 </div>
 
 ## Tech Stack Used in Projects -
@@ -31,6 +30,8 @@
 
 
  <!-- <a href="https://www.codechef.com/users/avadhesh_04" target="blank"><img align="center" src="https://cd.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" /></a> CodeChef--
+
+ <a href="https://www.hackerrank.com/avadheshkumarsh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a> HackerRank
 </div>
 <!--
 ## Connect with me - 
