@@ -7,6 +7,28 @@
   <a href="https://www.codechef.com/users/avadhesh_04" target="blank"><img align="center" src="https://cdn.simpleicons.org/codechef" alt="CodeChef" height="30" width="40" /></a> CodeChef
   <a href="https://www.hackerearth.com/@avadhesh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a> HackerEarth
 </div>
+
+<h2>Tech Stack Used in Projects</h2>
+
+<ul>
+  <li style="margin-bottom: 10px;">
+    <strong>Languages:</strong> C++, JavaScript, Python, SQL
+  </li>
+  
+  <li style="margin-bottom: 10px;">
+    <strong>Frameworks & Libraries:</strong> React.js, Node.js, Express.js, Django
+  </li>
+  
+  <li style="margin-bottom: 10px;">
+    <strong>Databases & Cloud:</strong> MongoDB, MySQL, AWS (EC2, S3)
+  </li>
+  
+  <li style="margin-bottom: 10px;">
+    <strong>Developer Tools:</strong> VS Code, Postman (API), Git, GitHub
+  </li>
+</ul>
+
+
  <!-- <a href="https://www.codechef.com/users/avadhesh_04" target="blank"><img align="center" src="https://cd.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" /></a> CodeChef--
 </div>
 <!--
