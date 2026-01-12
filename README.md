@@ -16,7 +16,7 @@
   </li>
   
   <li style="margin-bottom: 10px;">
-    <strong>Frameworks & Libraries:</strong> React.js, Node.js, Express.js, Django
+    <strong>Frameworks & Libraries:</strong> React.js, Node.js, Express.js, TypeScript, Django
   </li>
   
   <li style="margin-bottom: 10px;">
