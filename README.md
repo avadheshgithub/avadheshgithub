@@ -8,7 +8,8 @@
   <a href="https://www.hackerearth.com/@avadhesh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a> HackerEarth
 </div>
 
-## MERN Tech Stack Used in Projects -
+
+## MERN Stack Projects Tech -
 
 <ul>
   <li style="margin-bottom: 10px;">
@@ -28,8 +29,8 @@
   </li>
 </ul>
 
-## Data Science Tech Stack in Projects -
 
+## Data Science Projects Tech Stack -
 
 <ul>
   <li style="margin-bottom: 10px;">
