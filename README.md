@@ -8,15 +8,15 @@
   <a href="https://www.hackerearth.com/@avadhesh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a> HackerEarth
 </div>
 
-## Tech Stack Used in Projects -
+## MERN Tech Stack Used in Projects -
 
 <ul>
   <li style="margin-bottom: 10px;">
-    <strong>Languages:</strong> C++, JavaScript, Python, SQL
+    <strong>Languages:</strong> C++, JavaScript, Python
   </li>
   
   <li style="margin-bottom: 10px;">
-    <strong>Frameworks & Libraries:</strong> React.js, Node.js, Express.js, TypeScript, Django
+    <strong>Frameworks & Libraries:</strong> React.js, Node.js, Express.js, TypeScript,
   </li>
   
   <li style="margin-bottom: 10px;">
@@ -24,17 +24,28 @@
   </li>
   
   <li style="margin-bottom: 10px;">
-    <strong>Developer Tools:</strong> VS Code, Postman (API), Git, GitHub, Jupyter Notebook
+    <strong>Developer Tools:</strong> VS Code, Postman (API), Git, GitHub
   </li>
 </ul>
 
+## ML & AI Tech Stack in Projects -
+
+
 <ul>
   <li style="margin-bottom: 10px;">
-    <strong>Machine Learning:</strong> Supervised ML, Unsupervised ML, Reinforcement ML
+    <strong>Machine Learning:</strong> Supervised ML (Classification, Regression), Unsupervised ML (Clustering, Association)
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Deep Learning:</strong> 
+    <strong>Deep Learning:</strong> CNN, RNN, GAN
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, numpy, Pandas, Matplotlib, Seaborn
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <strong>Tools:</strong> Jupyter NoteBook, Django, Flask 
   </li>
 </ul>
 
