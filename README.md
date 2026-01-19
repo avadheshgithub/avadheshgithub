@@ -24,7 +24,11 @@
   </li>
   
   <li style="margin-bottom: 10px;">
-    <strong>Developer Tools:</strong> VS Code, Postman (API), Git, GitHub
+    <strong>Developer Tools:</strong> VS Code, Postman (API), Git, GitHub, Jupyter Notebook
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <strong>Machine Learning:</strong> Supervised ML, Unsupervised ML, Reinforcement ML
   </li>
 </ul>
 
