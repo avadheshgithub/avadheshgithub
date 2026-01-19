@@ -28,7 +28,7 @@
   </li>
 </ul>
 
-## ML & AI Tech Stack in Projects -
+## Data Science Tech Stack in Projects -
 
 
 <ul>
@@ -41,7 +41,7 @@
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, numpy, Pandas, Matplotlib, Seaborn
+    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, numpy, Scipy, Pandas, Matplotlib, Seaborn
   </li>
 
   <li style="margin-bottom: 10px;">
