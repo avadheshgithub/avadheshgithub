@@ -9,7 +9,7 @@
 </div>
 
 
-## MERN Stack Projects Tech -
+## MERN Projects Tech Stack -
 
 <ul>
   <li style="margin-bottom: 10px;">
@@ -46,7 +46,7 @@
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Tools:</strong> Jupyter NoteBook, Django, Flask 
+    <strong>Developers Tools:</strong> Jupyter NoteBook, Django, Flask 
   </li>
 </ul>
 
