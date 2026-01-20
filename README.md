@@ -38,7 +38,7 @@
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Deep Learning:</strong> CNN, RNN, GAN
+    <strong>Deep Learning:</strong> ANN, CNN, RNN, GAN
   </li>
 
   <li style="margin-bottom: 10px;">
