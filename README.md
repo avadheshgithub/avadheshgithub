@@ -34,7 +34,7 @@
 
 <ul>
   <li style="margin-bottom: 10px;">
-    <strong>Machine Learning:</strong> Supervised ML (Classification, Regression), Unsupervised ML (Clustering, Association)
+    <strong>Machine Learning:</strong> Supervised ML, Unsupervised ML
   </li>
 
   <li style="margin-bottom: 10px;">
@@ -42,7 +42,7 @@
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, numpy, Scipy, Pandas, Matplotlib, Seaborn
+    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, numpy, Scipy, Pandas
   </li>
 
   <li style="margin-bottom: 10px;">
