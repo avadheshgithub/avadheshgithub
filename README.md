@@ -38,7 +38,7 @@
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Deep Learning:</strong> ANN, CNN, RNN, LSTM, BERT, GAN, NLP, Computer Vision 
+    <strong>Deep Learning:</strong> ANN, CNN, RNN, LSTM, BERT, GAN, NLP, CV
   </li>
 
   <li style="margin-bottom: 10px;">
