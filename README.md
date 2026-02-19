@@ -13,7 +13,7 @@
 
 <ul>
   <li style="margin-bottom: 10px;">
-    <strong>Languages:</strong> C++, JavaScript, Python
+    <strong>Languages:</strong> C++, JavaScript, SQL, Python, Html/CSS
   </li>
   
   <li style="margin-bottom: 10px;">
@@ -21,7 +21,7 @@
   </li>
   
   <li style="margin-bottom: 10px;">
-    <strong>Databases & Cloud:</strong> MongoDB, MySQL, AWS (EC2, S3)
+    <strong>Databases & Cloud:</strong> MongoDB, MySQL, AWS (EC2, S3), Cloudinary
   </li>
   
   <li style="margin-bottom: 10px;">
@@ -34,15 +34,15 @@
 
 <ul>
   <li style="margin-bottom: 10px;">
-    <strong>Machine Learning:</strong> Supervised ML, Unsupervised ML
+    <strong>Machine Learning:</strong> Supervised ML, Unsupervised ML, Ensemble Learning 
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Deep Learning:</strong> ANN, CNN, RNN, GAN
+    <strong>Deep Learning:</strong> ANN, CNN, RNN, LSTM, BERT, GAN, NLP, Computer Vision 
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, numpy, Scipy, Pandas
+    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, Numpy, Scipy, Pandas
   </li>
 
   <li style="margin-bottom: 10px;">
