@@ -42,7 +42,7 @@
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, PyTorhc, Numpy, Pandas
+    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, PyTorch, Numpy, Pandas
   </li>
 
   <li style="margin-bottom: 10px;">
