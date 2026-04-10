@@ -22,7 +22,7 @@
   </a> HackerEarth
 
   <a href="https://www.hackerrank.com/profile/avadheshkumarsh1" target="blank">
-    <img src="https://cdn.simpleicons.org/hackerrank" height="30" width="40"/>
+    <img src="https://cdn.simpleicons.org/hackerrank" height="30" width="25"/>
   </a> HackerRank
 
 </div>
