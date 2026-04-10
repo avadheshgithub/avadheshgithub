@@ -1,5 +1,5 @@
 ## Coding Profile -
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; align-items: center;">
   
   <a href="https://leetcode.com/u/avadhesh_04/" target="blank">
     <img src="https://cdn.simpleicons.org/leetcode" height="30" width="40"/>
@@ -20,6 +20,10 @@
   <a href="https://www.hackerearth.com/@avadhesh_04/" target="blank">
     <img src="https://cdn.simpleicons.org/hackerearth" height="30" width="40"/>
   </a> HackerEarth
+
+  <a href="https://www.hackerrank.com/profile/avadheshkumarsh1" target="blank">
+    <img src="https://cdn.simpleicons.org/hackerrank" height="30" width="40"/>
+  </a> HackerRank
 
 </div>
 
