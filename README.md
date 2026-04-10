@@ -1,9 +1,9 @@
 ## Coding Profile -
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 25px; align-items: center; flex-wrap: wrap;">
   
-  <a href="https://leetcode.com/u/avadhesh_04/" target="blank">
+  <a href="https://leetcode.com/u/avadhesh_04/" target="blank" >
     <img src="https://cdn.simpleicons.org/leetcode" height="30" width="40"/>
-  </a> LeetCode  
+  </a> Leetcode
   
   <a href="https://www.geeksforgeeks.org/user/avadheshkumlm8q/" target="blank">
     <img src="https://cdn.simpleicons.org/geeksforgeeks" height="30" width="40"/>
@@ -22,7 +22,7 @@
   </a> HackerEarth
 
   <a href="https://www.hackerrank.com/profile/avadheshkumarsh1" target="blank">
-    <img src="https://cdn.simpleicons.org/hackerrank" height="30" width="25"/>
+    <img src="https://cdn.simpleicons.org/hackerrank" height="35" width="25"/>
   </a> HackerRank
 
 </div>
