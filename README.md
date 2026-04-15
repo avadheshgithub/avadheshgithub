@@ -3,37 +3,37 @@
 <p align="center">
 
   <a href="https://leetcode.com/u/avadhesh_04/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode" height="28" style="vertical-align: middle;"/>
+    <img src="https://cdn.simpleicons.org/leetcode" height="30" style="vertical-align: middle;"/>
     <span style="color: inherit;">LeetCode</span>
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.geeksforgeeks.org/user/avadheshkumlm8q/" target="_blank">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks" height="28" style="vertical-align: middle;"/>
+    <img src="https://cdn.simpleicons.org/geeksforgeeks" height="35" style="vertical-align: middle;"/>
     <span style="color: inherit;">GeeksforGeeks</span>
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/Avadhesh_04" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeforces" height="28" style="vertical-align: middle;"/>
+    <img src="https://cdn.simpleicons.org/codeforces" height="30" style="vertical-align: middle;"/>
     <span style="color: inherit;">Codeforces</span>
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.codechef.com/users/avadhesh_04" target="_blank">
-    <img src="https://cdn.simpleicons.org/codechef" height="28" style="vertical-align: middle;"/>
+    <img src="https://cdn.simpleicons.org/codechef" height="32" style="vertical-align: middle;"/>
     <span style="color: inherit;">CodeChef</span>
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerearth.com/@avadhesh_04/" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerearth" height="28" style="vertical-align: middle;"/>
+    <img src="https://cdn.simpleicons.org/hackerearth" height="30" style="vertical-align: middle;"/>
     <span style="color: inherit;">HackerEarth</span>
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/profile/avadheshkumarsh1" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank" height="28" style="vertical-align: middle;"/>
+    <img src="https://cdn.simpleicons.org/hackerrank" height="25" style="vertical-align: middle;"/>
     <span style="color: inherit;">HackerRank</span>
   </a>
 
