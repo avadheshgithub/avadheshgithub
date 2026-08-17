@@ -1,4 +1,4 @@
-## Coding Profiles _:
+## Coding Profiles -:
 
 <p align="center">
 
